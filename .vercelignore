@@ -1,0 +1,15 @@
+node_modules
+contracts
+scripts
+test
+hardhat.config.js
+package.json
+package-lock.json
+.env
+.env.local
+cache
+artifacts
+ignition
+*.md
+!client/README.md
+
